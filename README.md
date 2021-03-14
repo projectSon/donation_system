@@ -1,2 +1,0 @@
-# Donation System using Ethereme
-
